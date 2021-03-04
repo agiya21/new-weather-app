@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Tools that being used: 
+## Tools that being used in this project: 
 - ReactJS
 - Open Weather App API for fetching weather forecast. Using "Current weather and forecast" feature (https://openweathermap.org/current)
 - React Bootstrap (https://react-bootstrap.github.io/)
