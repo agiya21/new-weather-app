@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - ReactJS
 - Open Weather App API for fetching weather forecast. Using "Current weather and forecast" feature (https://openweathermap.org/current)
 - React Bootstrap (https://react-bootstrap.github.io/)
-- FontAwesome for ReactJS (https://fontawesome.com/how-to-use/on-the-web/using-with/react)
+- FontAwesome ReactJS for icons (https://fontawesome.com/how-to-use/on-the-web/using-with/react)
 
 
 # React Configuration
