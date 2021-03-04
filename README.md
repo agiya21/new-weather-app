@@ -1,7 +1,15 @@
-# Getting Started with Create React App
+# Weather Forecast App with ReactJS
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Tools that being used: 
+- ReactJS
+- Open Weather App API for fetching weather forecast. Using "Current weather and forecast" feature (https://openweathermap.org/current)
+- React Bootstrap (https://react-bootstrap.github.io/)
+- FontAwesome for ReactJS (https://fontawesome.com/how-to-use/on-the-web/using-with/react)
+
+
+# React Configuration
 ## Available Scripts
 
 In the project directory, you can run:
