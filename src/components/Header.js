@@ -1,9 +1,9 @@
 import React from "react"
 
-function Header(){
-    return(
+function Header() {
+    return (
         <header>
-            <h1>This is Weather Forecast Web</h1>
+            <h1>Weather Forecast Web</h1>
         </header>
     )
 }
